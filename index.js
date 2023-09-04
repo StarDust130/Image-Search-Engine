@@ -8,6 +8,7 @@ const api_key = "liGXIuV0nAta54k86IShYso2wDLZWsB6iagNoUIhXyo";
 let keyword = "";
 let page = 1;
 
+
 //  Function to Search Image 😄
 async function searchImage() {
   // Getting Keyword from Search Box 😄
