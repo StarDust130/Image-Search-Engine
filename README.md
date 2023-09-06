@@ -6,7 +6,6 @@
 
 ## Usage 🎃
 
-
 ### To use the image search engine, follow these steps:
 
 #### Enter a search term in the search bar and press Enter, or click the search button.
